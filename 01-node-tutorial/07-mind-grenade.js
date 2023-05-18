@@ -1,4 +1,4 @@
-const num1 = 5
+const num1 = 10
 const num2 = 10
 
 function addValues() {
